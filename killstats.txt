@@ -30,9 +30,9 @@
 "Terminator 2"	1991	1	suicide	315
 "The Last Action Hero"	1993	3	strength	316,335,336
 "The Last Action Hero"	1993	2	swords	318
-"The Last Action Hero"	1993	17	guns	334, 338
+"The Last Action Hero"	1993	17	guns	334,338
 "The Last Action Hero"	1993	1	electrocution	337
-"True Lies"	1994	8	bombs	343, 372
+"True Lies"	1994	8	bombs	343,372
 "True Lies"	1994	27	guns	356,367,376,383
 "True Lies"	1994	7	strength	357,359,363,369,377
 "True Lies"	1994	1	projectiles	358
@@ -60,6 +60,6 @@
 "Collateral Damage"	2002	1	projectiles	482
 "Terminator 3"	2003	1	bombs	483
 "Terminator 3"	2003	1	suicide	484
-"Expendibles 2"	2012 18	guns	502
+"Expendibles 2"	2012	18	guns	502
 "The Last Stand"	2013	6	guns	503,509
 "The Last Stand"	2013	1	driving	504
