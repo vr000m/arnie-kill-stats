@@ -84,14 +84,14 @@ if __name__ == "__main__":
     print "Total kills: ",kills
     # print swordsKills
     
-    writeLogs ("_year.txt", sorted(killYear.items()))
-    writeLogs ("_weapon.txt", sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
+    writeLogs ("_year.log", sorted(killYear.items()))
+    writeLogs ("_weapon.log", sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
 
-    writeLogs ("_guns.txt", sorted(gunKills.items()))
-    writeLogs ("_strength.txt", sorted(stKills.items()))
-    writeLogs ("_bombs.txt", sorted(bombsKills.items()))
-    writeLogs ("_driving.txt", sorted(drivingKills.items()))
-    writeLogs ("_swords.txt", sorted(swordsKills.items()))
+    writeLogs ("_guns.log", sorted(gunKills.items()))
+    writeLogs ("_strength.log", sorted(stKills.items()))
+    writeLogs ("_bombs.log", sorted(bombsKills.items()))
+    writeLogs ("_driving.log", sorted(drivingKills.items()))
+    writeLogs ("_swords.log", sorted(swordsKills.items()))
     
     
     
