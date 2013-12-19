@@ -1,67 +1,65 @@
-kill stats (http://www.youtube.com/watch?v=OE6jpTaOYMU)
-movie	kills	weapon
-"hercules in ny"	2	boulders	1,2
-"streets of SFO"	1	strength	3
-"conan the barbarian"	1	strength	4
-"conan the barbarian"	17	swords	23
-"conan the barbarian"	1	teeth	10
-"conan the destroyer"	23	swords	48
-"conan the destroyer"	3	projectiles	20,35,38
-"Terminator 1"	18	guns	70
-"Terminator 1"	1	driving	57
-"Terminator 1"	4	strength	49,52,56,71
-"Red Sonja"	27	swords	98
-"Commando"	53	guns	99,104,115,146,151,154,165,191
-"Commando"	4	strength	100,101,102,103,105
-"Commando"	7	knives	106,107,170
-"Commando"	4	projectiles	108,109,110,192
-"Commando"	26	bombs	122,128,135,148,153,156
-"Raw Deal"	24	guns	216
-"Predator"	16	bombs	231, 247
-"Predator"	14	guns	246
-"Predator"	1	projectliles	244
-"The Running Man"	2	strength	248,252
-"The Running Man"	9	guns	251,260
-"The Running Man"	2	projectile	253,261
-"The Running Man"	1	bombs	254
-"Red Heat"	7	guns	268
-"Total Recall"	6	strength	270,282,283,284,312
-"Total Recall"	38	guns	277,285,311
-"Kindergarten Cop"	1	guns	313
-"Terminator 2"	1	guns	314
-"Terminator 2"	1	suicide	315
-"The Last Action Hero"	3	strength	316,335,336
-"The Last Action Hero"	2	swords	318
-"The Last Action Hero"	17	guns	334, 338
-"The Last Action Hero"	1	electrocution	337
-"True Lies"	8	bombs	343, 372
-"True Lies"	27	guns	356,367,376,383
-"True Lies"	7	strength	357,359,363,369,377
-"True Lies"	1	projectiles	358
-"True Lies"	2	crowbar	360,361
-"True Lies"	8	flame-thrower	391
-"True Lies"	6	air-gun	397
-"True Lies"	5	air-missile	402
-"Eraser"	6	strength	404,406,412,426
-"Eraser"	24	guns	405,411,413,420,423,428,442
-"Eraser"	9	bombs	409,422,445
-"Eraser"	1	knives	410
-"Eraser"	3	aligators	416
-"Batman and Robin"	7	freezegun	448,453
-"Batman and Robin"	1	strength	449
-"End of days"	1	strength	454
-"End of days"	5	guns	456,462
-"End of days"	4	bombs	459,463
-"End of days"	1	suicide	464
-"The 6th day"	1	driving	465
-"The 6th day"	3	strength	466,469,473
-"The 6th day"	1	guns	467
-"The 6th day"	4	laser-gun	468,472
-"Collateral Damage"	7	bombs	480
-"Collateral Damage"	1	strength	481
-"Collateral Damage"	1	projectiles	482
-"Terminator 3"	1	bombs	483
-"Terminator 3"	1	suicide	484
-"Expendibles 2"	18	guns	502
-"The Last Stand"	6	guns	503,509
-"The Last Stand"	1	driving	504
+"hercules in ny"	1969	2	boulders	1,2
+"streets of SFO"	1977	1	strength	3
+"conan the barbarian"	1982	1	strength	4
+"conan the barbarian"	1982	17	swords	23
+"conan the barbarian"	1982	1	teeth	10
+"Conan the Destroyer"	1984	23	swords	48
+"Conan the Destroyer"	1984	3	projectiles	20,35,38
+"Terminator 1"	1984	18	guns	70
+"Terminator 1"	1984	1	driving	57
+"Terminator 1"	1984	4	strength	49,52,56,71
+"Red Sonja"	1985	27	swords	98
+"Commando"	1985	53	guns	99,104,115,146,151,154,165,191
+"Commando"	1985	4	strength	100,101,102,103,105
+"Commando"	1985	7	knives	106,107,170
+"Commando"	1985	4	projectiles	108,109,110,192
+"Commando"	1985	26	bombs	122,128,135,148,153,156
+"Raw Deal"	1986	24	guns	216
+"Predator"	1987	16	bombs	231, 247
+"Predator"	1987	14	guns	246
+"Predator"	1987	1	projectliles	244
+"The Running Man"	1987	2	strength	248,252
+"The Running Man"	1987	9	guns	251,260
+"The Running Man"	1987	2	projectile	253,261
+"The Running Man"	1987	1	bombs	254
+"Red Heat"	1988	7	guns	268
+"Total Recall"	1990	6	strength	270,282,283,284,312
+"Total Recall"	1990	38	guns	277,285,311
+"Kindergarten Cop"	1990	1	guns	313
+"Terminator 2"	1991	1	guns	314
+"Terminator 2"	1991	1	suicide	315
+"The Last Action Hero"	1993	3	strength	316,335,336
+"The Last Action Hero"	1993	2	swords	318
+"The Last Action Hero"	1993	17	guns	334, 338
+"The Last Action Hero"	1993	1	electrocution	337
+"True Lies"	1994	8	bombs	343, 372
+"True Lies"	1994	27	guns	356,367,376,383
+"True Lies"	1994	7	strength	357,359,363,369,377
+"True Lies"	1994	1	projectiles	358
+"True Lies"	1994	2	crowbar	360,361
+"True Lies"	1994	8	flame-thrower	391
+"True Lies"	1994	6	air-gun	397
+"True Lies"	1994	5	air-missile	402
+"Eraser"	1996	6	strength	404,406,412,426
+"Eraser"	1996	24	guns	405,411,413,420,423,428,442
+"Eraser"	1996	9	bombs	409,422,445
+"Eraser"	1996	1	knives	410
+"Eraser"	1996	3	aligators	416
+"Batman and Robin"	1997	7	freezegun	448,453
+"Batman and Robin"	1997	1	strength	449
+"End of days"	1999	1	strength	454
+"End of days"	1999	5	guns	456,462
+"End of days"	1999	4	bombs	459,463
+"End of days"	1999	1	suicide	464
+"The 6th day"	2000	1	driving	465
+"The 6th day"	2000	3	strength	466,469,473
+"The 6th day"	2000	1	guns	467
+"The 6th day"	2000	4	laser-gun	468,472
+"Collateral Damage"	2002	7	bombs	480
+"Collateral Damage"	2002	1	strength	481
+"Collateral Damage"	2002	1	projectiles	482
+"Terminator 3"	2003	1	bombs	483
+"Terminator 3"	2003	1	suicide	484
+"Expendibles 2"	2012 18	guns	502
+"The Last Stand"	2013	6	guns	503,509
+"The Last Stand"	2013	1	driving	504
