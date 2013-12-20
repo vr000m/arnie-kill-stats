@@ -4,7 +4,10 @@ source: http://www.youtube.com/watch?v=OE6jpTaOYMU
 
 Earlier today, the Internet was abuzz with a [video](http://www.youtube.com/watch?v=OE6jpTaOYMU) of Arnold Schwarzenegger's kill count. Each kill is categorized in ```killstats.txt``` broadly by movie, year, method or weapon used and the number of fatalities.
 
-```@Total kills:  509```
+```
+$ python arnie.py 
+Total kills:  509
+```
 
 
 I'd have thought they'd be more.  The later two __Terminator__ movies had one kill each (the terminator) and consequently a suicude. __End of days__ was the only other movie where Arnie dies.
