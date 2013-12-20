@@ -1,3 +1,4 @@
+# plot all skill fatalities
 for f in _sk_*.log; 
 do 
 	m=$(echo $f | rev | cut -c 5- | rev)
