@@ -7,7 +7,7 @@ set origin 0,0
 set border 3 lc rgb "black" lw 5
 set grid
 set size ratio 0.5
-set key top right inside horizontal font ",18"
+set key right inside vertical font ",18"
 set pointsize 2.5
 set yrange [0:]
 # set y2range [0:120]
@@ -23,7 +23,9 @@ set datafile missing "-"
 # set format x "%Y"
 
 #set style data histogram
-set style histogram cluster gap 2
+set style data histogram
+set style histogram rowstacked
+# set style histogram cluster gap 1
 set style fill solid 0.5 border
 #pattern 5 noborder #
 set boxwidth 0
