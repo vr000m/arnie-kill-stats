@@ -5,14 +5,28 @@ from scipy import stats
 from numpy import *
 
 killWeapon = {}
-killMovie = {}
 killYear = {}
+
+Years = [1969, 1977, 1982, 1984, 1985, 1986, 1987, 1988, 1990, 1991, 1993, 1994, 1996, 1997, 1999, 2000, 2002, 2003, 2012, 2013]
 
 gunKills = {}
 stKills  = {}
 bombsKills  = {}
 swordsKills  = {}
 drivingKills = {}
+
+def constructor(b):
+    for x in Years:
+        if (not x in b):
+            b[x] = 0
+
+def CreateDicts():
+    constructor(killYear)
+    constructor(gunKills)
+    constructor(stKills)
+    constructor(bombsKills)
+    constructor(swordsKills)
+    constructor(drivingKills)
 
 def writeLogs (fname, d):
     writer = csv.writer(open(fname, 'wb'), delimiter='\t')
@@ -80,18 +94,19 @@ def main():
     return totKills
 
 if __name__ == "__main__":
+    CreateDicts()
     kills = main()
     print "Total kills: ",kills
     # print swordsKills
     
-    writeLogs ("_year.log", sorted(killYear.items()))
-    writeLogs ("_weapon.log", sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
+    writeLogs ("_year.log",     sorted(killYear.items()))
+    writeLogs ("_weapon.log",   sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
 
-    writeLogs ("_guns.log", sorted(gunKills.items()))
-    writeLogs ("_strength.log", sorted(stKills.items()))
-    writeLogs ("_bombs.log", sorted(bombsKills.items()))
-    writeLogs ("_driving.log", sorted(drivingKills.items()))
-    writeLogs ("_swords.log", sorted(swordsKills.items()))
+    writeLogs ("_sk_guns.log",      sorted(gunKills.items()))
+    writeLogs ("_sk_strength.log",  sorted(stKills.items()))
+    writeLogs ("_sk_bombs.log",     sorted(bombsKills.items()))
+    writeLogs ("_sk_driving.log",   sorted(drivingKills.items()))
+    writeLogs ("_sk_swords.log",    sorted(swordsKills.items()))
     
     
     
