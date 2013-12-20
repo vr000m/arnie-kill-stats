@@ -17,10 +17,10 @@
 "Raw Deal"	1986	24	guns	216
 "Predator"	1987	16	bombs	231, 247
 "Predator"	1987	14	guns	246
-"Predator"	1987	1	projectliles	244
+"Predator"	1987	1	projectiles	244
 "The Running Man"	1987	2	strength	248,252
 "The Running Man"	1987	9	guns	251,260
-"The Running Man"	1987	2	projectile	253,261
+"The Running Man"	1987	2	projectiles	253,261
 "The Running Man"	1987	1	bombs	254
 "Red Heat"	1988	7	guns	268
 "Total Recall"	1990	6	strength	270,282,283,284,312

@@ -1,7 +1,5 @@
 electrocution	1
 teeth	1
-projectliles	1
-projectile	2
 boulders	2
 crowbar	2
 driving	3
@@ -13,7 +11,7 @@ air-gun	6
 freezegun	7
 flame-thrower	8
 knives	8
-projectiles	9
+projectiles	12
 strength	40
 swords	69
 bombs	72
