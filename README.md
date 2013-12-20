@@ -12,12 +12,18 @@ I'd have thought they'd be more.  The later two ___Terminator___ movies had one 
 
 Figure 1 shows the kills over the years, 1984-87 appear to be his prolific years and in ___Commando___, he got the most action.
 
-![kills/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_year.png "Figure 1")
-![kills/movie](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_movie.png "Figure 2")
+![kills/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_year.png "Figure 1: kills per year")
 
+![kills/movie](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_movie.png "Figure 2: kills in each movie")
 
-![kills/weapon](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_weapon.png "Kills by differnt weapons")
+Guns is his weapon of choice but he can easily kill with his bare hands, or a sword/knife, or blow you up.
 
-![kills/weapon/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_skills_rowstacked.png "Kills by weapon over the years -- Stacked histogram")
+![kills/weapon](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_weapon.png "Figure 3: Kills by differnt weapons")
 
-![kills/weapon/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_skills.png "Kills by weapon over the years -- Histogram")
+Figure 4 shows the kills by each weapon in each calendar year.
+
+![kills/weapon/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_skills_rowstacked.png "Figure 4: Kills by weapon over the years -- Stacked histogram")
+
+Over the years, Arnold prefered to use more guns than swords, is it because the roles where he yields a sword have dried up?
+
+![kills/weapon/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_skills.png "Figure 5: Kills by weapon over the years -- Histogram")
