@@ -1,4 +1,3 @@
-#plotting bitrate.txt using gnuplot
 gnuplot << EOF
 name=system("echo $1") 
 set terminal pdf color enhanced rounded size 12,6 fname 'Times' fsize 24
