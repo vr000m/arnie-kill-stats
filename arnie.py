@@ -96,7 +96,6 @@ def main():
                     swordsKills[year] = 0
                 swordsKills[year] += kills
                             
-
     return totKills
 
 if __name__ == "__main__":
@@ -105,15 +104,15 @@ if __name__ == "__main__":
     print "Total kills: ",kills
     # print killMovie
     
-    writeLogs ("_year.log",     sorted(killYear.items()))
-    writeLogs ("_weapon.log",   sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
-    writeLogs ("_movie.log",   sorted(killMovie.iteritems(), key=operator.itemgetter(1)))
+    writeLogs ("./logs/_year.log",     sorted(killYear.items()))
+    writeLogs ("./logs/_weapon.log",   sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
+    writeLogs ("./logs/_movie.log",   sorted(killMovie.iteritems(), key=operator.itemgetter(1)))
 
-    writeLogs ("_sk_guns.log",      sorted(gunKills.items()))
-    writeLogs ("_sk_strength.log",  sorted(stKills.items()))
-    writeLogs ("_sk_bombs.log",     sorted(bombsKills.items()))
-    writeLogs ("_sk_driving.log",   sorted(drivingKills.items()))
-    writeLogs ("_sk_swords.log",    sorted(swordsKills.items()))
+    writeLogs ("./logs/_sk_guns.log",      sorted(gunKills.items()))
+    writeLogs ("./logs/_sk_strength.log",  sorted(stKills.items()))
+    writeLogs ("./logs/_sk_bombs.log",     sorted(bombsKills.items()))
+    writeLogs ("./logs/_sk_driving.log",   sorted(drivingKills.items()))
+    writeLogs ("./logs/_sk_swords.log",    sorted(swordsKills.items()))
     
     
     
