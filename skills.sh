@@ -24,8 +24,8 @@ set datafile missing "-"
 
 #set style data histogram
 set style data histogram
-set style histogram rowstacked
-# set style histogram cluster gap 1
+# set style histogram rowstacked
+set style histogram cluster gap 4
 set style fill solid 0.5 border
 #pattern 5 noborder #
 set boxwidth 0
