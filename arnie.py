@@ -6,6 +6,7 @@ from numpy import *
 
 killWeapon = {}
 killYear = {}
+killMovie = {}
 
 Years = [1969, 1977, 1982, 1984, 1985, 1986, 1987, 1988, 1990, 1991, 1993, 1994, 1996, 1997, 1999, 2000, 2002, 2003, 2012, 2013]
 
@@ -46,6 +47,11 @@ def main():
         kills = int(row[2])
         method = row[3]
         totKills += kills
+
+        movy = movie+" ("+str(year)+")"
+        if (not movy in killMovie):
+            killMovie[movy] = 0
+        killMovie[movy] += kills
 
         if(not year in killYear):
             killYear[year] = 0
@@ -97,10 +103,11 @@ if __name__ == "__main__":
     CreateDicts()
     kills = main()
     print "Total kills: ",kills
-    # print swordsKills
+    # print killMovie
     
     writeLogs ("_year.log",     sorted(killYear.items()))
     writeLogs ("_weapon.log",   sorted(killWeapon.iteritems(), key=operator.itemgetter(1)))
+    writeLogs ("_movie.log",   sorted(killMovie.iteritems(), key=operator.itemgetter(1)))
 
     writeLogs ("_sk_guns.log",      sorted(gunKills.items()))
     writeLogs ("_sk_strength.log",  sorted(stKills.items()))
