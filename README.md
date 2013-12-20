@@ -10,18 +10,19 @@ Total kills:  509
 ```
 
 
-I'd have thought they'd be more.  The later two __Terminator__ movies had one kill each (the terminator) and consequently a suicude. __End of days__ was the only other movie where Arnie dies.
-1 aligator was shot and 1 vulture's neck was bitten by Conan. Some bizzare killings are using an alligator, electrocution, crowbar, a fighter jet (see the [weapons](https://github.com/vr000m/arnie-kill-stats/blob/master/_weapon.log) list).
+I'd have thought they'd be more.  The later two __Terminator__ movies have one kill each (the terminator) and consequently a suicude. __End of days__ is the only other movie where Arnie dies.
+1 aligator is shot and 1 vulture's neck is bitten by Conan. Some bizzare killings include: using an alligator, electrocution, crowbar, a fighter jet (see the [weapons](https://github.com/vr000m/arnie-kill-stats/blob/master/_weapon.log) list).
 
-Figure 1 shows the kills over the years, 1984-87 appear to be his prolific years and in __Commando__, he got the most action.
+Figure 1 shows the kills over the years, 1984-87 appear to be his prolific years and in __Commando__, he got the most kills.
 
 ![kills/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_year.png "Figure 1: kills per year")
 
 ![kills/movie](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_movie.png "Figure 2: kills in each movie")
 
-Guns is his weapon of choice but he can easily kill with his bare hands (shown by *strength* in the graph), or a sword/knife, or blow things up, typically resulting multiple kills. His biggest burst was **8** in __Commando__, this has been repeated in several other movies such as, True Lies, Predator, Eraser, Predator.
+Guns is his weapon of choice but he can easily kill with his bare hands (shown by *strength* in the graph), or a sword/knife, or blow things up, typically resulting in multiple kills. His largest kill-burst is **8** in __Commando__, this has been repeated in several other movies such as, True Lies, Predator, Eraser, Predator.
 
 Lastly, when he seems to have no weapon, he runs people over ;). 3 people were killed by cars.
+He uses exotic guns too: laser guns, flame thrower, freeze gun.
 
 ![kills/weapon](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_weapon.png "Figure 3: Kills by differnt weapons")
 
