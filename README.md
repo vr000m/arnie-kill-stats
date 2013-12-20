@@ -2,7 +2,19 @@ arnie-kill-stats
 ================
 source: http://www.youtube.com/watch?v=OE6jpTaOYMU
 
-![kills/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_year.png "Kills over the years")
+Earlier today, the Internet was abuzz with a [video](http://www.youtube.com/watch?v=OE6jpTaOYMU) of Arnold Schwarzenegger's kill count. Each kill is categorized in ```killstats.txt``` broadly by movie, year, method or weapon used and the number of fatalities.
+
+```@Total kills:  509```
+
+
+I'd have thought they'd be more.  The later two ___Terminator___ movies had one kill each (the terminator) and consequently a suicude. ___End of days___ was the only other movie where Arnie dies.
+1 aligator was shot and 1 vulture's neck was bitten by Conan. Some bizzare killings are using an alligator, electrocution, crowbar, a fighter jet (see the [weapons](https://github.com/vr000m/arnie-kill-stats/blob/master/_weapon.log) list).
+
+Figure 1 shows the kills over the years, 1984-87 appear to be his prolific years and in ___Commando___, he got the most action.
+
+![kills/year](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_year.png "Figure 1")
+![kills/movie](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_movie.png "Figure 2")
+
 
 ![kills/weapon](https://raw.github.com/vr000m/arnie-kill-stats/master/graph_weapon.png "Kills by differnt weapons")
 
